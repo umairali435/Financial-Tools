@@ -17,12 +17,12 @@ class CustomDrawer extends StatelessWidget {
     }
 
     void launchWebsite() {
-      const url = 'https://memoryrememberapp.blogspot.com/2024/08/memory-remember-privacy-policy.html';
+      const url = 'https://financialtoolsapp.blogspot.com/2024/08/financial-tools-privacy-policy.html';
       launchURL(url);
     }
 
     void launchAppStore() {
-      Share.share("""You can find Edad Age Mate https://apps.apple.com/store/apps/details?id=com.sulemam.edad""");
+      Share.share("""You can find Edad Age Mate https://apps.apple.com/store/apps/details?id=com.zakir.tools""");
     }
 
     return Container(
